@@ -101,6 +101,7 @@ footer h3{
 .informacion{
     margin: 15px auto;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 .datos{
