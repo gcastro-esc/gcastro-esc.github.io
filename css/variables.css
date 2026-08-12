@@ -1,0 +1,18 @@
+:root {
+    /* Paleta de colores: San Miguel de Allende */
+    --color-terracotta: #A0402B;
+    --color-cantera: #D9C5B2;
+    --color-papiro: #FBF9F5;
+    --color-cacao: #2C221E;
+    --color-blanco-transparente: rgba(255, 255, 255, 0.8);
+    --color-borde-suave: rgba(217, 197, 178, 0.5);
+
+    /* Tipografías */
+    --font-serif: 'Merriweather', serif;
+    --font-display: 'Playfair Display', serif;
+
+    /* Estructura */
+    --max-width-content: 768px;
+    --radius-sm: 4px;
+    --radius-md: 8px;
+}
